@@ -1,0 +1,11 @@
+{
+    "list_id": "1234567890",
+    "account": "yourusername",
+    "auth_token": "",
+    "ct0": "",
+    "check_interval": 300,
+    "enable_twscrape_logging": false,
+    "danbooru_login": "",
+    "danbooru_apikey": "",
+    "danbooru_useragent": "twitter-autoasset user #123"
+}

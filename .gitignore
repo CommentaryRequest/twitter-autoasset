@@ -1,0 +1,6 @@
+accounts.db
+settings.json
+__pycache__/
+state.json
+tweetlog.json
+*.swp
